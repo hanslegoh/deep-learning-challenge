@@ -41,3 +41,8 @@ For a different approach to this problem, I recommend attempting the random fore
 - Cells 14 to 19 {**Keras tuner and model** setup} - from `tune_up_solution.ipynb`
 - Cell 14 {**Layer activation functions**} - from [Keras Doc](https://keras.io/api/layers/activations/#creating-custom-activations)
 - Cell 15 {**Hyperband directory** parameter} - from [Stack Overflow](https://stackoverflow.com/questions/59439124/keras-tuner-search-function-throws-failed-to-create-a-newwriteablefile-error)
+
+### Other References
+
+- Random tree model - from [IBM](https://www.ibm.com/topics/random-forest)
+- Activation functions' graphs - from [AnalytixLabs](https://www.analytixlabs.co.in/blog/activation-function-in-neural-network/)
